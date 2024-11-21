@@ -1,6 +1,8 @@
 # intEff_
 Computing interaction effects and standard errors in logit and probit models Use intEff With (In) R Software
 
+https://www.youtube.com/watch?v=Z1ADF1jpsaE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
